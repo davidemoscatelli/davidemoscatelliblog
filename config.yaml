@@ -1,0 +1,4 @@
+baseURL: "http://www.imdavide.it/"
+languageCode: "it-it"
+title: "imdavide"
+pygmentsstyle: 'monokai'
