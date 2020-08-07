@@ -1,5 +1,5 @@
 ---
-title: Emoji Support
+title: Gesu
 date: 2019-03-05
 hero: "/images/hero-3.jpg"
 excerpt: Guide to emoji usage in Hugo
