@@ -1,9 +1,7 @@
 ---
 title: Davide Moscatelli
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/profile-01.jpeg
+bio: Ciao sono Davide
+avatar: /images/profilo.jpg
 featured: true
 social:
   - title: twitter
