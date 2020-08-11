@@ -4,8 +4,7 @@ date: 2019-03-05
 hero: "/images/hero-3.jpg"
 excerpt: Guide to emoji usage in Hugo
 authors:
-  - Hugo Authors
-
+  - davide
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
