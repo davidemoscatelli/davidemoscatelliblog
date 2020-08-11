@@ -1,7 +1,7 @@
 <div class="footer-gradient"></div>
     <div class="section narrow">
       <div class="footer-hr"></div>
-     
+
       <div class="footer-container">
         <div class="footer-text">
           © {{ dateFormat "2006" now }} {{ .Site.Title }}
@@ -9,3 +9,18 @@
         {{ partial "social-links/social-links.html" . }}
     </div>
 </div>
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              //console.log('Service Worker Registered');
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              //console.log('Service Worker Ready');
+          });
+  }
+</script>
