@@ -363,22 +363,3 @@ self.addEventListener(
 
     }
 );
-
-
-self.addEventListener('message', (event) => {
-
-    if(
-        typeof event.data === 'object' &&
-        typeof event.data.action === 'string'
-    ) {
-        switch(event.data.action) {
-            case 'cache' :
-                precacheUrl(event.data.url);
-                break;
-            default :
-                console.log('Unknown action: ' + event.data.action);
-                break;
-        }
-    }
-
-});
