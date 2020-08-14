@@ -5,7 +5,7 @@ hero: /images/hero-11.jpg
 excerpt: aprire un blog nel 2020
 authors:
   - davide
-tags: ['Blog']
+tags: ['Blog','Podcast']
 
 ---
 # Perchè aprire un blog nel 2020 può sembrare così strano?
