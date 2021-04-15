@@ -11,7 +11,8 @@ tags: ['Blog','Podcast']
 # A breve riparte Tech Caffè
 
 Test - Un podcast decisamente interessante basato su tecnologia, serie tv e curiosità <!--more-->
-<img alt="logo podcast" src="tech-caffè.png" />
+<img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" >
+
 
 Vi aspettiamo tutti per la nuova stagione del podcast
 {{< css.inline >}}
