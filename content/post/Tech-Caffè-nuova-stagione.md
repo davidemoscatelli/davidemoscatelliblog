@@ -13,6 +13,10 @@ tags: ['Blog','Podcast']
 Test - Un podcast decisamente interessante basato su tecnologia, serie tv e curiosità <!--more-->
 <img alt="tech caffè logo" src="/images/tech-caffè.png" >
 
+<a href="https://app.forestry.io/quick-start?repo=forestryio/novela-hugo-starter&engine=hugo&version=0.62.2">
+    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
+</a>
+
 
 Vi aspettiamo tutti per la nuova stagione del podcast
 {{< css.inline >}}
