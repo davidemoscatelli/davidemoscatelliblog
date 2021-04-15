@@ -21,7 +21,7 @@ A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://w
 
 **This theme requires Hugo > 0.55.0 and has been tested with Hugo v0.62.2**
 
-![](https://raw.githubusercontent.com/forestryio/hugo-theme-novela/master/images/tn.png)
+![](/images/tech-caffè.png)
 
 <a href="https://app.forestry.io/quick-start?repo=forestryio/novela-hugo-starter&engine=hugo&version=0.62.2">
     <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
